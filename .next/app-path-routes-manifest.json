@@ -1,0 +1,10 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/contact/page": "/contact",
+  "/entreprise/page": "/entreprise",
+  "/galerie/page": "/galerie",
+  "/impression-3d/page": "/impression-3d",
+  "/imprimantes/page": "/imprimantes",
+  "/page": "/"
+}

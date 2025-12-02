@@ -1,0 +1,14 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/impression-3d/layout,_N_T_/impression-3d/page,_N_T_/impression-3d"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/impression-3d/__PAGE__",
+    "/impression-3d",
+    "/_index"
+  ]
+}

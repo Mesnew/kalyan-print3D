@@ -1,0 +1,243 @@
+Cahier des charges – Site vitrine d’impression 3D
+
+Client : PROTOPRINT DYNAMICS
+Objet : Mise à jour et enrichissement du contenu du site vitrine d’impression 3D
+
+1. Contexte et objectif
+
+PROTOPRINT DYNAMICS souhaite mettre à jour le contenu de son site vitrine afin de :
+
+Mettre en avant les technologies d’impression réellement utilisées (FDM et SLA).
+
+Présenter le parc machine de manière claire et professionnelle.
+
+Préciser les capacités techniques (précision, matériaux, couleurs, volumes, vitesse…).
+
+Ajouter une section dédiée aux services complémentaires proposés (CAO, gravure laser, usinage CNC).
+
+Le but est de rassurer les clients sur les capacités techniques et la qualité de production, tout en valorisant la polyvalence de PROTOPRINT DYNAMICS (prototypage, petites séries, goodies, pièces techniques, etc.).
+
+2. Modifications générales du site
+
+Nom de la société
+
+Le nom à faire apparaître partout sur le site :
+PROTOPRINT DYNAMICS
+
+Technologie d’impression à corriger
+
+Supprimer toute mention de « impression FFF ».
+
+Remplacer/adapter pour ne parler que de :
+
+Impression FDM
+
+Impression SLA
+
+3. Section « Technologies d’impression »
+
+Créer ou mettre à jour une section dédiée, par exemple intitulée :
+« Nos technologies d’impression » ou « Capacités d’impression ».
+
+3.1. Impression FDM
+
+Mentionner explicitement la technologie : FDM (Fused Deposition Modeling).
+
+Précision d’impression à afficher :
+
+Précision FDM : ± 0,05 mm
+
+Mettre en avant les points suivants :
+
+Adapté au prototypage rapide et à la production de petites séries.
+
+Possibilité d’ajuster la qualité en jouant sur le diamètre de buse (rapidité vs précision).
+
+3.2. Impression SLA
+
+Mentionner explicitement la technologie : SLA (Stéréolithographie).
+
+Basée sur une machine de type Elegoo Saturn 3 (ou équivalent).
+
+Précision d’impression à afficher :
+
+Précision SLA : ± 0,02 mm
+
+Mettre en avant les points suivants :
+
+Idéal pour les pièces très détaillées et les finis de surface très fins.
+
+Adapté aux pièces techniques, maquettes détaillées ou objets esthétiques.
+
+4. Section « Parc machines »
+
+Créer une section dédiée, par exemple : « Notre parc machine ».
+Objectif : décrire clairement les capacités de production.
+
+4.1. Imprimante FDM 1 – Bambu Lab H2C
+
+Quantité : 1 machine
+
+Technologie : FDM
+
+Caractéristiques à mettre en avant :
+
+Buses disponibles : de 0,2 mm à 0,8 mm.
+
+Permet à la fois :
+
+du prototypage ultra rapide (buse large),
+
+de l’impression très précise (buse fine).
+
+Association de qualité et rapidité de fabrication.
+
+4.2. Imprimantes FDM 2 et 3 – Creality K2 Plus
+
+Quantité : 2 machines
+
+Technologie : FDM
+
+Usage principal :
+
+Impression rapide et précise de prototypes, comme la H2C.
+
+Goodies et demandes particulières.
+
+Couleurs :
+
+Possibilité de réaliser des impressions multicolores jusqu’à 12 couleurs (sur ces machines, comme sur la H2C si applicable).
+
+4.3. Imprimantes FDM 4 et 5 – A1 Mini
+
+Quantité : 2 machines
+
+Technologie : FDM
+
+Usage principal :
+
+Machines automatisées pour la production en série sur des pièces de petite taille.
+
+Volume d’impression :
+
+Environ 18 cm x 18 cm x 18 cm (18 cm au cube).
+
+Couleurs :
+
+Impression multicolore jusqu’à 4 couleurs simultanées.
+
+5. Matériaux disponibles
+
+Créer ou compléter une section « Matériaux ».
+
+5.1. Matériaux en FDM
+
+Lister les matériaux disponibles :
+
+PLA
+
+ABS
+
+ASA
+
+PETG
+
+PETG-CF
+
+PEHT
+
+PPS
+
+ESD
+
+Préciser que ces matériaux permettent de répondre à des besoins variés :
+
+Prototypage,
+
+Pièces techniques,
+
+Pièces nécessitant des propriétés spécifiques (résistance, ESD, etc.).
+
+5.2. Matériaux en SLA
+
+Grand choix de couleurs en résine.
+
+Résine ESD noire disponible.
+
+Possibilité de mettre en avant l’adaptation aux pièces techniques nécessitant protection ESD.
+
+6. Services proposés (nouvelles sections à ajouter)
+
+Créer une section « Services » ou « Nos prestations » regroupant les activités suivantes :
+
+6.1. Conception CAO
+
+Ajouter une rubrique « Conception sur logiciel de CAO ».
+
+Mentionner que PROTOPRINT DYNAMICS peut :
+
+Concevoir des pièces sur logiciel de Conception Assistée par Ordinateur (CAO),
+
+Partir d’une idée, d’un croquis ou de besoins fonctionnels,
+
+Accompagner le client du concept à la pièce prête à être imprimée.
+
+6.2. Gravure laser
+
+Ajouter une rubrique « Gravure laser ».
+
+Mettre en avant :
+
+Possibilité de personnaliser des pièces,
+
+Gravure de logos, textes, marquages techniques ou décoratifs.
+
+6.3. Usinage CNC (Commande numérique)
+
+Ajouter une rubrique « Usinage sur commande numérique (CNC) ».
+
+Indiquer que ce service permet :
+
+La réalisation de pièces usinées en complément de l’impression 3D,
+
+La fabrication de pièces dans certains matériaux non imprimables (selon offre réelle),
+
+D’associer impression 3D et usinage pour des projets plus complexes.
+
+7. Rédaction / Ton et mise en forme
+
+Ton souhaité : professionnel, technique mais accessible à un public non expert.
+
+Utiliser un vocabulaire clair et pédagogique pour expliquer les technologies (FDM, SLA, CAO, CNC, ESD…).
+
+Mettre en avant :
+
+La qualité,
+
+La flexibilité (rapidité vs précision),
+
+La capacité multicolore,
+
+Les services complémentaires pour des projets clés en main.
+
+8. Livrables attendus
+
+Mise à jour du contenu du site vitrine incluant :
+
+La section Technologies d’impression (FDM / SLA, précisions, avantages).
+
+La section Parc machines détaillant chaque imprimante et son usage.
+
+La section Matériaux (liste FDM + SLA).
+
+La section Services (CAO, gravure laser, usinage CNC).
+
+La correction des mentions erronées (suppression de « FFF »).
+
+L’utilisation systématique du nom PROTOPRINT DYNAMICS.
+
+Le contenu devra être :
+
+Intégré au site existant,
+
+Relu et validé par le client avant mise en production.

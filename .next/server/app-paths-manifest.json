@@ -1,0 +1,10 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/entreprise/page": "app/entreprise/page.js",
+  "/galerie/page": "app/galerie/page.js",
+  "/impression-3d/page": "app/impression-3d/page.js",
+  "/imprimantes/page": "app/imprimantes/page.js",
+  "/page": "app/page.js"
+}
